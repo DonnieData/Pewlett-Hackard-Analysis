@@ -8,12 +8,11 @@ uploading
 - fitlering 
 -joins 
 
-## Overview 
-
 ##  Resources 
 - Python 3.7.6, JupyterLab 2.26
 - [PostgreSQL 12.2](https://www.postgresql.org/), [Pgadmin 4.20](https://www.pgadmin.org/) 
 
+## Overview 
 
 ## Results 
 
