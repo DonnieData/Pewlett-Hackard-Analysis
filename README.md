@@ -25,7 +25,7 @@ We can then further parse the large datasets based on custom filters and groupin
 By utilizing [multi-pronged queries](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) to gain foccused insights on employee/retirement metrics, I have made several findings:
 
 ![query_schema_0](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_2.png)
-
+Of the 300,024 employees within the company, 30.13% are eligible for retirment 
 
 ## Summary 
 analysis of results maybe throw in some  extra percentage ratios etc <br> 
