@@ -24,11 +24,14 @@ We can then further parse the large datasets based on custom filters and groupin
 ## Results / Findings 
 By utilizing [multi-pronged queries] on the database(https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) to gain foccused insights on employee/retirement metrics. Below are several of my findings: 
 
-- Of the 300,024 employees within the company, 30.13% are eligible for retirment. 
+- Of the 300,024 employees within the company, 90,398 (30.13%) are eligible for retirment. 
 - Senior Engineer, Senior Staff and Engineer's hold the largest share (23.9%) of employees likely prepping for retirement. <br>
 ![query_schema_0](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_2.png)
 
 
+
+- THE departments with the highest number of potential retirees are Development(25.45%),Production(22.30%) and Sales(7.27%). 
+![query_schema_5](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_6.png)
 
 
 ## Summary 
