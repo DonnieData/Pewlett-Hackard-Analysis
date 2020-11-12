@@ -21,11 +21,20 @@ Since [datatypes and restrictions are already defined](https://github.com/Donnie
 Having our data cleanly imported and formated within the database, we can freely use SQL(structured Query Language) to communicate with the database and retrieve information.
 We can then further parse the large datasets based on custom filters and groupings as well as creating custom tables and joining pre-existing ones. 
 
-## Results 
-- results of query 
+## Results / Findings 
+- The Number of Retiring Employees by title , unique titles, retiring titles 
+- mentorship eligible 
+-
+-
+
+
+
+
 ## Summary 
-analysis of results maybe throw in some  extra percentage ratios etc 
+analysis of results maybe throw in some  extra percentage ratios etc <br> 
+
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
