@@ -17,6 +17,11 @@ The purpose of this project is to perform analysis on a large-scale of employee 
 The company Pewlett Hackard is reviewing staffing metrics, namely retirement and needs assistance wrangling the data that will help transalte who may be and is eleigible fore retirement. 
 
 
+## Analysis Steps 
+- 
+-
+- 
+
 -data mapping  (ERD)
 - database setup / data shaping  ( create table) * screenshot of query to create tables
 - data importing 
@@ -27,3 +32,8 @@ The company Pewlett Hackard is reviewing staffing metrics, namely retirement and
 - results of query 
 ## Summary 
 analysis of results maybe throw in some  extra percentage ratios etc 
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+
+
