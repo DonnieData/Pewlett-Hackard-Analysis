@@ -14,6 +14,7 @@ uploading
 
 ## Overview 
 The purpose of this project is to perform analysis on a large-scale of employee data for a company with over 30,000 employees.
+The company Pewlett Hackard is reviewing staffing metrics, namely retirement and needs assistance wrangling the data that will help transalte who may be and is eleigible fore retirement. 
 
 
 -data mapping  (ERD)
