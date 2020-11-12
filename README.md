@@ -6,7 +6,7 @@ Performing analysis of company employee data by utilizng the dynamic ability of 
 - [PostgreSQL 12.2](https://www.postgresql.org/), [Pgadmin 4.20](https://www.pgadmin.org/) 
 
 ## Overview 
-The purpose of this project is to perform analysis on a large-scale of employee data for a company with over 30,000 employees.
+The purpose of this project is to perform analysis on a large-scale of employee data for a company with over 300,000 employees.
 The company Pewlett Hackard is reviewing staffing metrics, namely retirement and needs assistance wrangling the data that will help transalte who may be and is eleigible fore retirement. 
 
 ## Data Process  
@@ -22,12 +22,9 @@ Having our data cleanly imported and formated within the database, we can freely
 We can then further parse the large datasets based on custom filters and groupings as well as creating custom tables and joining pre-existing ones. 
 
 ## Results / Findings 
-- The Number of Retiring Employees by title , unique titles, retiring titles 
-- mentorship eligible 
--
--
+By utilizing [multi-pronged queries](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) to gain foccused insights on employee/retirement metrics, I have made several findings:
 
-
+[query_schema_0]https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_2.png
 
 
 ## Summary 
