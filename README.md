@@ -18,8 +18,8 @@ The company Pewlett Hackard is reviewing staffing metrics, namely retirement and
 
 
 ## Analysis Steps 
+- Data Modeling [ERD Image]
 - 
--
 - 
 
 -data mapping  (ERD)
