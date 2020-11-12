@@ -18,17 +18,16 @@ The purpose of this project is to perform analysis on a large-scale of employee 
 The company Pewlett Hackard is reviewing staffing metrics, namely retirement and needs assistance wrangling the data that will help transalte who may be and is eleigible fore retirement. 
 
 ## Data Process  
-- Data Modeling [ERD Image]<br>
+- Modeling [ERD Image]<br>
   Through creating an Entity Relationship Diagram we are able to [map out our database schema](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_0.png) as well as relationships, which is how our various data files will interact with each other as tables within the database. 
  
-  
-- Data  Wrangling <br>
+- Wrangling <br>
 With the schema of the database mapped out and created we can then import our company data into the database(in the form of csv files of various sizes).
 Since [datatypes and restrictions are already defined](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_1.png) for the database, we ca nensure dat aintegrity and  a trustworthy analysis. 
 
-importing/wrangling/ transforming. joining 
-
-- Data transofrming/ analyzzing <br>
+- Transforming & Analyzing<br>
+Having our data cleanly imported and formated within the database, we can freely use SQL(structured Query Language) to communicate with the database and retrieve information.
+We can then further parse the large datasets based on custom filters and groupings as well as creating custom tables and joining pre-existing ones. 
 
 
 -data mapping  (ERD)
