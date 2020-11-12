@@ -16,11 +16,12 @@ uploading
 The purpose of this project is to perform analysis on a large-scale of employee data for a company with over 30,000 employees.
 The company Pewlett Hackard is reviewing staffing metrics, namely retirement and needs assistance wrangling the data that will help transalte who may be and is eleigible fore retirement. 
 
-
-## Analysis Steps 
+## Primary Steps 
 - Data Modeling [ERD Image]
-- 
-- 
+  Throught creating an Entity Relationship Diagram we are able to [map out our database schema](query_schema_0) which is how our various data files will interact with each other as tables within the database. 
+- Data  importing/wrangling/ transforming. joining 
+- Data transofrming/ analyzzing 
+
 
 -data mapping  (ERD)
 - database setup / data shaping  ( create table) * screenshot of query to create tables
