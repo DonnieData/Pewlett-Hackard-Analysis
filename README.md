@@ -29,16 +29,12 @@ By utilizing [multi-pronged queries] on the database(https://github.com/DonnieDa
 
 ![query_schema_0](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_2.png)
 
-
-
 - THE departments with the highest number of potential retirees are Development(25.45%),Production(22.30%) and Sales(7.27%). 
 ![query_schema_5](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_6.png)
 
 
 ## Summary 
-analysis of results maybe throw in some  extra percentage ratios etc <br> 
-
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Based on the findings of my analysis Pewlett Hackard is potentially facing over 90,000 vacant positons company wide.
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
