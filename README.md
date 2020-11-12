@@ -24,7 +24,7 @@ The company Pewlett Hackard is reviewing staffing metrics, namely retirement and
   
 - Data  Wrangling <br>
 With the schema of the database mapped out and created we can then import our company data into the database(in the form of csv files of various sizes).
-Since datatypes and rules are already defined for the database, we ca nensure dat aintegrity and  a trustworthy analysis. 
+Since [datatypes and restrictions are already defined](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_1.png) for the database, we ca nensure dat aintegrity and  a trustworthy analysis. 
 
 importing/wrangling/ transforming. joining 
 
