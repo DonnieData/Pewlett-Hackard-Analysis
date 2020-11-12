@@ -24,19 +24,22 @@ We can then further parse the large datasets based on custom filters and groupin
 ## Results / Findings 
 By utilizing [multi-pronged queries] on the database(https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) to gain foccused insights on employee/retirement metrics. Below are several of my findings: 
 
+### Employees Eligible for Retirement
 - Of the 300,024 employees within the company, 90,398 (30.13%) are eligible for retirment. 
 - Senior Engineer, Senior Staff and Engineer's hold the largest share (23.9%) of employees likely prepping for retirement. <br>
 
 ![query_schema_0](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_2.png)
 
-- THE departments with the highest number of potential retirees are Development(25.45%),Production(22.30%) and Sales(7.27%). 
+- THE departments with the highest number of potential retirees are Development(25.45%),Production(22.30%) and Sales(7.27%). <br>
 ![query_schema_5](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_6.png)
 
+### Employees Eligible for Mentorship
+
+- Only 1549 total employees qualify for mentorship/training for a internal promotion.
+![query_schema_7](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_7.png)
 
 ## Summary 
 Based on the findings of my analysis Pewlett Hackard is potentially facing over 90,000 vacant positons company wide.
-
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
+Taking into consideration the low ammount of employees who are eligible for mentorship, Pewlett hackard will face a great deficit once a majority of eligible employees retire.
 
 
