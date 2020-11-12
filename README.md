@@ -22,10 +22,13 @@ Having our data cleanly imported and formated within the database, we can freely
 We can then further parse the large datasets based on custom filters and groupings as well as creating custom tables and joining pre-existing ones. 
 
 ## Results / Findings 
-By utilizing [multi-pronged queries](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) to gain foccused insights on employee/retirement metrics, I have made several findings:
+By utilizing [multi-pronged queries] on the database(https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) to gain foccused insights on employee/retirement metrics. Below are several of my findings: 
 
 ![query_schema_0](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_2.png)
-Of the 300,024 employees within the company, 30.13% are eligible for retirment 
+
+- Of the 300,024 employees within the company, 30.13% are eligible for retirment. 
+- Of the 9 departments within the company, 7 have employees that are elibigle to retire.
+- 
 
 ## Summary 
 analysis of results maybe throw in some  extra percentage ratios etc <br> 
