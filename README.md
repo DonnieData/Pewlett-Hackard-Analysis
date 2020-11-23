@@ -10,7 +10,7 @@ The purpose of this project is to perform analysis on a large-scale of employee 
 The company Pewlett Hackard is reviewing staffing metrics, namely retirement and needs assistance wrangling the data that will help translate who may be and is eligible for retirement. 
 
 ## Data Process  
-- <b>[Modeling]</b>(https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/EmployeeDB_0.png)<br>
+- <b>[Modeling](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/EmployeeDB_0.png)</b><br>
   Through creating an Entity Relationship Diagram we are able to [map out our database schema](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_0.png) as well as relationships, which is how our various data files will interact with each other as tables within the database. 
  
 - Wrangling <br>
