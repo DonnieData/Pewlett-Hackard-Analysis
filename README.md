@@ -13,11 +13,11 @@ The company Pewlett Hackard is reviewing staffing metrics, namely retirement and
 - <b>[Modeling](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/EmployeeDB_0.png)</b><br>
   Through creating an Entity Relationship Diagram we are able to [map out our database schema](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_0.png) as well as relationships, which is how our various data files will interact with each other as tables within the database. 
  
-- Wrangling <br>
+- <b>Wrangling</b> <br>
 With the schema of the database mapped out and created we can then import our company data into the database(in the form of csv files of various sizes).
 Since [data types and restrictions are already defined](https://github.com/DonnieData/Pewlett-Hackard-Analysis/blob/main/Resources/query_schema_1.png) for the database, we can ensure data integrity and  a trustworthy analysis. 
 
-- Transforming & Analyzing<br>
+- <b>Transforming & Analyzing</b><br>
 Having our data cleanly imported and formatted within the database, we can freely use SQL(structured Query Language) to communicate with the database and retrieve information.
 We can then further parse the large datasets based on custom filters and groupings as well as creating custom tables and joining pre-existing ones. 
 
